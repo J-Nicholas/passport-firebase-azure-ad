@@ -1,0 +1,56 @@
+{
+  "name": "passport-firebase-azure-ad",
+  "version": "1.0.0",
+  "description": "A modified passport-azure-ad module that allows a user to authenticate and authorise Microsoft Azure-ad accounts using __session cookies whilst working in a firebase environment.",
+  "main": "./lib",
+  "dependencies": {
+    "async": "^1.5.2",
+    "base64url": "^3.0.0",
+    "bunyan": "^1.8.0",
+    "cache-manager": "^2.0.0",
+    "jwk-to-pem": "^1.2.6",
+    "jws": "^3.1.3",
+    "lodash": "^4.11.2",
+    "oauth": "0.9.14",
+    "passport": "^0.3.2",
+    "request": "^2.72.0",
+    "valid-url": "^1.0.6"
+  },
+  "devDependencies": {
+    "chai": "2.x.x",
+    "chai-passport-strategy": "1.x.x",
+    "grunt": "^1.0.1",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^3.0.2",
+    "nodeunit": "^0.9.1"
+  },
+  "scripts": {
+    "test": "grunt run_tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Nicholas/passport-firebase-azure-ad.git"
+  },
+  "keywords": [
+    "firebase",
+    "auth",
+    "authorise",
+    "authorize",
+    "authenticate",
+    "passport",
+    "azure",
+    "ad",
+    "microsoft",
+    "graph"
+  ],
+  "author": "Johnathan Nicholas + Microsoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J-Nicholas/passport-firebase-azure-ad/issues"
+  },
+  "engines": {
+    "node": ">= 4.0.1"
+  },
+  "homepage": "https://github.com/J-Nicholas/passport-firebase-azure-ad#readme"
+}
