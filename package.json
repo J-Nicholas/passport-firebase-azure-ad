@@ -44,7 +44,7 @@
     "microsoft",
     "graph"
   ],
-  "author": "Johnathan Nicholas + Microsoft",
+  "author": "Johnathan Nicholas, Microsoft",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/J-Nicholas/passport-firebase-azure-ad/issues"
