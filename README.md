@@ -39,4 +39,4 @@ Original passport-azure-ad module can be found on github: [Here](https://github.
 Please refer to this for full documentation on how to utilise passport-azure-ad. Almost everything should apply to this module as I have only made a small modification. 
 
 ## 4. Note
-I am stil a student and don't have a lot of experience yet and there may be a better way to authorise/authenticate microsoft azure users using vanilla passport-azure-ad and firebase but I struggled to find a solution until I made this. Feel free to contact me about any tips you might have for me or any problems you face using this package. Thank you.
+I am still a student and don't have a lot of experience yet and there may be a better way to authorise/authenticate microsoft azure users using vanilla passport-azure-ad and firebase but I struggled to find a solution until I made this. Feel free to contact me about any tips you might have for me or any problems you face using this package. Thank you.
